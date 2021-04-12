@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #233742;
+  background-color: #f7f7f7;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.bottom-container {
+  margin-top: 2vw;
+  background-color: #4fbdbd;
+  margin: 0;
+  padding-bottom: 0.6vw;
+}
+.btn {
+  background: #4fbdbd;
+  background-image: -webkit-linear-gradient(top, #4fbdbd, #4fbdbd);
+  background-image: -moz-linear-gradient(top, #4fbdbd, #4fbdbd);
+  background-image: -ms-linear-gradient(top, #4fbdbd, #4fbdbd);
+  background-image: -o-linear-gradient(top, #4fbdbd, #4fbdbd);
+  background-image: -webkit-gradient(to bottom, #4fbdbd, #4fbdbd);
+  -webkit-border-radius: 72px;
+  -moz-border-radius: 72px;
+  border-radius: 72px;
+  color: #233742;
+  font-family: Montserrat;
+  font-weight: 100;
+  padding: 20px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #2cf5dd;
+  border-radius: 40px;
+  text-decoration: none;
+}
+.code-image {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.contact-me{
+    margin-top: 2vw;
+}
+.footer-link {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  display: inline-block;
+  width: 10%;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #233742;
+  font-size: 1.6vw;
+}
+h1 {
+  font-family: Sacramento;
+  font-size: 5.625rem;
+  margin: 0;
+}
+h2 {
+  font-family: Montserrat;
+}
+h3 {
+  font-family: Raleway;
+}
+hr {
+  border-style: dotted;
+  height: 0;
+  width: 8%;
+  border-width: 8px;
+  border-bottom: 0;
+  color: #989c9e;
+}
+.middle-container {
+  margin-top: 1.6vw;
+  margin-bottom: 2vw;
+}
+p {
+  font-family: Raleway;
+  font-size: 2vw;
+  margin: 0 0 2.4vw;
+  color: #464849;
+}
+#p-top-container {
+  font-size: 2.4vw;
+}
+#p-bottom-container {
+  margin: 0;
+  font-size: 1.6vw;
+}
+.profile {
+  width: 50%;
+  margin: auto;
+}
+.skill-row {
+  width: 55%;
+  margin: 5% auto 7% auto;
+  text-align: left;
+}
+.trend-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.top-container {
+  background-color: #4fbdbd;
+  position: relative;
+  padding-top: 200px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 75px;
+}
